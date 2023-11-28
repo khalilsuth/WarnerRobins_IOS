@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4887836097816650972
+  m_GuidHigh: 11704772472604535458
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5676335434834162375
+      m_GuidHigh: 10758394363973128088
+    m_SerializedTextureGuid:
+      m_GuidLow: 5770272229535326974
+      m_GuidHigh: 365357304673043257
+    m_Size: {x: 0.2, y: 0.09249785}
+    m_SpecifySize: 1
+    m_Name: c5
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5374050699764752414
+      m_GuidHigh: 2449978514575085963
+    m_SerializedTextureGuid:
+      m_GuidLow: 6972701524996664230
+      m_GuidHigh: 9225582721247641417
+    m_Size: {x: 0.2, y: 0.10020414}
+    m_SpecifySize: 1
+    m_Name: c130
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5071917218738100059
+      m_GuidHigh: 12601802344009010350
+    m_SerializedTextureGuid:
+      m_GuidLow: 4770502226409138955
+      m_GuidHigh: 5125560273498218313
+    m_Size: {x: 0.2, y: 0.114285715}
+    m_SpecifySize: 1
+    m_Name: c17
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5558296686647104295
+      m_GuidHigh: 2459687382356307899
+    m_SerializedTextureGuid:
+      m_GuidLow: 17722926368559311544
+      m_GuidHigh: 5583299398238150106
+    m_Size: {x: 0.2, y: 0.07749928}
+    m_SpecifySize: 1
+    m_Name: f15
+    m_Texture: {fileID: 0}
